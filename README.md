@@ -1,3 +1,3 @@
 # QA_Flag
-QA Flagging Tool
+QA Flag narzędzia
 
